@@ -59,7 +59,26 @@ var events = [
    'type': 'meeting', 
    'title': 'OHM2013', 
    'url': 'https://ohm2013.org'},
+
+  {'date': '2013-08-13 14:00:00', 
+   'type': 'meeting', 
+   'title': 'Atelier d\'électronique en vue de la fabrication d\'une imprimante 3D', 
+   'url': 'http://fablab.coagul.org'},
+
+  {'date': '2013-08-20 14:00:00',
+   'type': 'meeting', 
+   'title': 'Atelier d\'électronique en vue de la fabrication d\'une imprimante 3D', 
+   'url': 'http://fablab.coagul.org'},
+
+  {'date': '2013-08-23 14:00:00',
+   'type': 'meeting', 
+   'title': 'Atelier d\'électronique en vue de la fabrication d\'une imprimante 3D', 
+   'url': 'http://fablab.coagul.org'},
    
+  {'date': '2013-08-30 14:00:00',
+   'type': 'meeting', 
+   'title': 'Atelier d\'électronique en vue de la fabrication d\'une imprimante 3D', 
+   'url': 'http://fablab.coagul.org'},
 
 ]
 
